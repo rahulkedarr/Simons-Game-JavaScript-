@@ -1,0 +1,45 @@
+body{ 
+    text-align: center;
+
+}
+.image{
+    background-image: url(assests/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.red{
+    background-color: red;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 2.5rem;
+    border: 5px solid black;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.skyblue{
+    background-color: skyblue;
+}
+.orange{
+    background-color: orange;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.lightcoral{
+    background-color: lightcoral;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
